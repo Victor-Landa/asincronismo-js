@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "callback": "node src/callback/index.js",
-    "request": "node src/callback/request.js"
+    "request": "node src/callback/request.js",
+    "promise": "node src/promise/index.js"
   },
   "author": "@Victor-Landa",
   "license": "MIT",

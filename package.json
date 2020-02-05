@@ -8,7 +8,8 @@
     "callback:request": "node src/callback/request.js",
     "promise": "node src/promise/index.js",
     "promise:request": "node src/promise/request.js",
-    "async": "node src/async/index.js"
+    "async": "node src/async/index.js",
+    "async:request": "node src/async/request.js"
   },
   "author": "@Victor-Landa",
   "license": "MIT",
